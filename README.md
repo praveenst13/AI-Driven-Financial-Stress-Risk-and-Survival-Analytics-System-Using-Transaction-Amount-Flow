@@ -77,6 +77,7 @@ The system dynamically analyzes transaction amount flows and adapts risk scoring
 ## System Architecture
 
 
+<img width="1024" height="1536" alt="ChatGPT Image Feb 13, 2026, 09_16_39 PM" src="https://github.com/user-attachments/assets/9426782b-8852-4e8b-b9d0-f3cf956423b6" />
 
 
 ---
