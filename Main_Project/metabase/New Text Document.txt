@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  metabase:
+    image: metabase/metabase:latest
+    container_name: metabase
+    ports:
+      - "3000:3000"
+    volumes:
+      - C:/Users/prave/OneDrive/Desktop/Project/metabase:/data
+    restart: unless-stopped
